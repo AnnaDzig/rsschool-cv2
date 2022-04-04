@@ -17,6 +17,10 @@ Creative and self-starting Front-End Developer with no experience but with a hug
 
 Petro Mohyla Black Sea National University,department of Sociology, Master's degree in Social work.
 
+### Additional Education
+
+Rolling Scopes School stage#0
+
 ### The code Example
 
 _Navbar Effect_
